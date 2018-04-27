@@ -1,0 +1,15 @@
+{
+  "name": "floorbrush",
+  "version": "1.0.0",
+  "description": "Drawing tool used to create floorplans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Floorbrush",
+    "tool"
+  ],
+  "author": "Maksym Yadvinskyy",
+  "license": "ISC"
+}
